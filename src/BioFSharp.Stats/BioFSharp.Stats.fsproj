@@ -23,6 +23,7 @@
     <Configurations>Debug;Release;Mono;DotnetCore</Configurations>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="SignatureTopology.fs" />
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="OntologyEnrichment.fs" />
     <Compile Include="SurprisalAnalysisEmpiricalPermutationTest.fs" />
